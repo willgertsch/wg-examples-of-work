@@ -3,6 +3,11 @@ These are examples of my previous work that are relatively easy to show online. 
 
 ## Design of Experiments/Clinical Trials
 
+### Optimal Designs for Logistic Regression with a Fractional Polynomial Predictor
+[Link to repository](https://github.com/willgertsch/ODpoly)
+
+An R package and shiny app for finding optimal designs for logistic regression with a fractional polynomial predictor. Designs are found using metaheuristics.
+
 ### D-optimal Designs for Logistic Regression using a Genetic Algorithm
 [Dopt_logistic.pdf](https://raw.githubusercontent.com/willgertsch/wg-examples-of-work/main/Dopt_logistic.pdf)
 [Dopt_logistic_presentation.pdf](https://raw.githubusercontent.com/willgertsch/wg-examples-of-work/main/Dopt_logistic_presentation.pdf)
